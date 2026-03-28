@@ -1,0 +1,5 @@
+{
+  "name": "Emotion Alchemist",
+  "description": "A 2D interactive game simulating human emotions wandering in a desert. Spawn props like Houses and Campfires, and drag emotions to see how they interact and change.",
+  "requestFramePermissions": []
+}
